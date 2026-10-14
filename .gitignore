@@ -1,0 +1,7 @@
+node_modules/
+coverage/
+dist/*.xlsx
+dist/test_*.xlsx
+*.log
+.DS_Store
+*.tgz
