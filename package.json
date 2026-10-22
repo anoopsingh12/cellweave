@@ -39,12 +39,12 @@
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "https://github.com/cellweave/cellweave.git"
+    "url": "https://github.com/anoopsingh12/cellweave.git"
   },
   "bugs": {
-    "url": "https://github.com/cellweave/cellweave/issues"
+    "url": "https://github.com/anoopsingh12/cellweave/issues"
   },
-  "homepage": "https://github.com/cellweave/cellweave#readme",
+  "homepage": "https://github.com/anoopsingh12/cellweave#readme",
   "engines": {
     "node": ">=14.0.0"
   },
