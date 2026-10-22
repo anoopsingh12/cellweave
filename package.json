@@ -1,6 +1,6 @@
 {
   "name": "cellweave",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A powerful JavaScript library for creating feature-rich Excel (.xlsx) spreadsheets. Supports all Excel features: styling, formulas, charts, pivot tables, data validation, conditional formatting, tables, images, and more.",
   "main": "index.js",
   "files": [
@@ -63,13 +63,18 @@
   },
   "jest": {
     "testEnvironment": "node",
-    "testMatch": ["**/tests/**/*.test.js"],
+    "testMatch": [
+      "**/tests/**/*.test.js"
+    ],
     "collectCoverageFrom": [
       "src/**/*.js",
       "index.js",
       "!src/interfaces/**"
     ],
-    "coverageReporters": ["text", "lcov"],
+    "coverageReporters": [
+      "text",
+      "lcov"
+    ],
     "coverageDirectory": "coverage"
   }
 }
